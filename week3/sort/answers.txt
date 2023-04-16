@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it takes a lot less time for it to sort the sorted50000 than it takes for it to sort the reversed50000 file, but it's still slower than programs 2 and 3 and the slowest program to sort the reversed50000 file
+
+sort2 uses: merge sort
+
+How do you know?: it's the fastest program and takes almost the same amount of time for it sort the reversed50000 file and sorted
+
+sort3 uses: selection sort
+
+How do you know?: it takes aproximately the same amount of time for it to sort the reversed50000 and the sorted50000 files. It's slower than program 2 but faster than program 1 in sorting the reversed50000 file
